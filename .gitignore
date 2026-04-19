@@ -1,0 +1,14 @@
+# Angular
+AI.Frontend/node_modules/
+AI.Frontend/dist/
+AI.Frontend/.angular/
+
+# .NET
+AI.Backend/bin/
+AI.Backend/obj/
+AI.Backend/*.user
+
+# General
+.env
+.DS_Store
+Thumbs.db
